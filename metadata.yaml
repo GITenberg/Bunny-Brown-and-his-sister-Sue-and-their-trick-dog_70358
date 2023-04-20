@@ -1,0 +1,40 @@
+_repo: Bunny-Brown-and-his-sister-Sue-and-their-trick-dog_70358
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Rogers, Walter S.
+    alias: Rogers, W. S.
+    birthdate: 1871
+    deathdate: 1937
+    gutenberg_agent_id: '7671'
+    url: http://www.gutenberg.org/2009/agents/7671
+    wikipedia: https://en.wikipedia.org/wiki/Walter_S._Rogers
+creator:
+  author:
+    agent_name: Hope, Laura Lee
+    gutenberg_agent_id: '367'
+    url: http://www.gutenberg.org/2009/agents/367
+    wikipedia: https://en.wikipedia.org/wiki/Laura_Lee_Hope
+description: ''
+gutenberg_issued: '2023-03-24'
+identifiers:
+  gutenberg: '70358'
+language: en
+pgterms:marc905: 20220621171906hope
+pgterms:marc906: '1923'
+pgterms:marc907: us
+production_note: David Edwards, David E. Brown, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aUnited States :$bGrosset & Dunlap, $c1923.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Juvenile fiction'
+- !lcsh 'Siblings -- Juvenile fiction'
+- !lcsh 'Brown, Bunny (Fictitious character) -- Juvenile fiction'
+- !lcc 'PZ'
+- GITenberg
+title: Bunny Brown and his sister Sue and their trick dog
+url: http://www.gutenberg.org/ebooks/70358
